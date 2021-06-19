@@ -1,0 +1,17 @@
+﻿  ConsoleApplication.cpp
+C:\Users\Максим\OneDrive\Рабочий стол\курсовая Михеев\ConsoleApplication9\ConsoleApplication.cpp(94,30): warning C4101: count: неиспользованная локальная переменная
+C:\Users\Максим\OneDrive\Рабочий стол\курсовая Михеев\ConsoleApplication9\ConsoleApplication.cpp(247,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Максим\OneDrive\Рабочий стол\курсовая Михеев\ConsoleApplication9\ConsoleApplication.cpp(247,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Максим\OneDrive\Рабочий стол\курсовая Михеев\ConsoleApplication9\ConsoleApplication.cpp(255,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Максим\OneDrive\Рабочий стол\курсовая Михеев\ConsoleApplication9\ConsoleApplication.cpp(266,24): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\Максим\OneDrive\Рабочий стол\курсовая Михеев\ConsoleApplication9\ConsoleApplication.cpp(289,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Максим\OneDrive\Рабочий стол\курсовая Михеев\ConsoleApplication9\ConsoleApplication.cpp(289,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  ConsoleApplication9.vcxproj -> C:\Users\Максим\OneDrive\Рабочий стол\курсовая Михеев\ConsoleApplication9\x64\Debug\ConsoleApplication9.exe
